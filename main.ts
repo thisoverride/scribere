@@ -14,7 +14,6 @@ const run = async () => {
     await page.type("#compte_id", id);
     await page.type("#compte_mdp", password);
     await page.type("#compte_mdp", String.fromCharCode(13));
-    await page.click("#identification > div:nth-child(6) > button");
     await page.waitForSelector(
       "body > webae-root > main > div > div > webae-espace-personnel > ngb-tabset > ul > li:nth-child(1)"
     );
