@@ -1,5 +1,5 @@
 # Urssaf-auto-complete
- <p>Urssaf-auto-complete is a bot that allows you to fill in your tax returns in an automated way 
+ <p>Urssaf-auto-complete is a bot that allows you to fill in your tax <br/>returns in an automated way 
 your tax returns on the Urssaf website.</p>
  
 
